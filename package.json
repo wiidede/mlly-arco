@@ -1,0 +1,17 @@
+{
+  "name": "mlly-arco",
+  "version": "1.0.0",
+  "description": "demo",
+  "type": "module",
+  "author": "wiidede",
+  "license": "ISC",
+  "scripts": {
+    "dev": "tsx ./resolvePath.ts"
+  },
+  "dependencies": {
+    "@arco-design/web-vue": "^2.53.2",
+    "@types/node": "^20.9.1",
+    "mlly": "^1.4.2",
+    "vue": "^3.3.8"
+  }
+}
